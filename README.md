@@ -1,4 +1,4 @@
-# FLASH-MD-V2: The Ultimate WhatsApp Bot
+kinshipmd : The Ultimate WhatsApp Bot
 
 **FLASH-MD-V2** is a powerful and customizable WhatsApp bot built with **Node.js** and **WhatsApp Web API**. Automate WhatsApp tasks, manage groups, and much more!
 
